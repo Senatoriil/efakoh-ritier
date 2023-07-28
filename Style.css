@@ -1,0 +1,515 @@
+body
+{
+background-color:white;
+}
+#Barre
+{
+	height: 60px;
+	background-color: #520808;
+	color: white;
+	padding: 1px;
+	font-size: large;
+	margin: 1px;
+	border: #B90000;
+}
+#slide
+{
+	height:200px;
+	background-color: blue;
+	width: 1200px;
+	margin: 20px;
+	color: red;
+	font-size: x-large;
+	color: white;
+}
+
+#header
+{
+    border: solid 1px black;
+    height: 1px;
+    margin: auto;
+    width: 1px;
+    background-image: url()
+}
+#Menu
+{
+    border: 1px solid black;
+    height: 50px;
+}
+#corps
+{
+    border: 1px solid black; 	
+    height: 1550px;
+	background-color:#FFFBF0;
+}
+ 
+#test
+{
+	font-family: 'Courier New', Courier, monospace;
+	font-size: xx-large;
+	text-align: center;
+}
+ 
+#haut
+{
+	 
+	height: 420px;
+	width: 100px; 
+	margin: 15px;
+	 
+}
+#gauche
+{
+	 	
+	width: 700px;
+	height: 600px;
+	margin: 10px;
+	background-color:#FFFFFF; 
+	margin-top: -10px;
+}
+ #BAR
+ {
+	height: 150px;
+	margin-left: 240px;
+	width: 250px;
+  
+ }
+h1
+{
+	font-size: xx-large;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	color:blue;
+	
+}
+h2
+{
+	text-align: center;
+	background-color: #ffffff;
+	font-weight: bold;
+	color: white;
+}
+h3
+{
+	font-size: xx-large;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	color:blue;
+}
+#droite
+{
+	/*border: solid 1px black;*/
+	width: 400px;
+	height: 300px;
+	color: red;
+	margin-left: 800px;
+	background-color:beige;
+	font-family: 'Courier New', Courier, monospace;
+	font-size:x-large;
+	color: #000080;
+	display: flex;
+	
+}
+#REC
+{
+	margin-left:850px;
+	color: red;
+	margin-top: -1130px;
+	font-size: x-large;
+	
+}
+#Apropos
+{ 
+	height: 380px;
+	width: 250px;
+	margin: 10px;
+ 
+}
+#BASE
+{
+	color: red;
+	width: 400px;
+	height: 300px;
+	margin: 5px;
+	margin-left: 800px;
+	margin-top: 20px;
+	
+	background-color:beige;
+	font-family: 'Courier New', Courier, monospace;
+	font-size:x-large;
+	color: #000080;
+	display: flex;
+
+}
+H6
+{
+	color: #B90000;
+	margin-left: 5px;
+	margin-top: -500px;
+	font-size: large;
+	text-align: left;
+	font-size: large;
+}
+.droite img
+{
+	margin-left: 5px;
+	margin-top: -600px;
+	font-size: large;
+	color: #B90000;
+	text-align: center;
+}
+
+a
+{
+	text-decoration: none;
+	/*font-size: x-large;
+	font-weight: bold;
+	font-family:'Times New Roman', Times, serif;
+	color: black;*/
+}
+ul
+{
+	text-decoration: none;
+
+}
+#gauch
+{
+	/*border: solid 1px black;*/
+	height: 400px;
+	width: 200px;
+	margin: 15px;
+	background-color: #FFFBF0
+
+}
+p
+{
+	font-size:30px;
+	font-family: 'ARIAL', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	padding-left: 10opx;
+	padding-top: -15px;
+}
+#centre
+{
+	border: solid 2px blanchedalmond;
+	height: 500px;
+	width: 200px;
+	margin: 15px;
+	border:solid 1px black;
+	margin-left:430px;
+	margin-top: -415px;
+	background-color: #ffffff
+}
+#droit
+{
+	/*border: solid 1px black;*/
+	height:400px;
+	width: 200px;
+	margin: 15px;
+	border: solid 1px black;
+	margin-left:  850px;
+	margin-top: -420px;
+	background-color: #FFFBF0
+}
+ 
+img
+{
+	 
+	border: solid 2p black;
+	 
+	 
+	
+}
+#log
+{
+	height: 300px;
+	width: 750px;
+	 
+}
+#log1
+{
+	height: 290px;
+	color: red;
+	width: 350px;
+ 
+	margin: 5px;
+}
+#log2
+{ 
+
+	height: 290px;
+	color: red;
+	width: 350px;
+	margin: 5px;
+	margin-left: 380px;
+	margin-top: -295px;
+}
+h5
+{
+	font-size: x-large;
+	color: red;
+	margin-left: 260px;
+}
+
+#hot
+{
+ border: solid 1px black;
+ height:200px ;
+ width: 320px;
+ margin: 5px;
+ background-color: #A6CAF0;
+ 
+}
+#ba
+{
+	border: solid 1px black;
+    height:200px ;
+    width: 320px;
+	margin: 5px;
+	background-color:rgb(138, 148, 140)
+}
+li a
+{
+	text-decoration: none;
+}
+ #note
+ {
+	 
+	margin-left: 130px;
+	width: 270px;
+	height: 350px;
+	margin-top: -320px;
+ }
+ 
+ #un
+ {
+	margin: 5px;
+	font-size: large;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ #Present
+ {
+	/*border: solid 1px black;*/
+	width: 600px;
+	height: 130px;
+	padding: 10px;
+	font-size: x-large;
+
+ }
+ #Passe
+ {
+	border: solid 1px red;
+	width: 550px;
+	height: 145px;
+	margin-left: 635px;
+	margin-top: -150px;
+
+
+ }
+  
+ 
+li
+{
+	padding: 10px;
+	text-decoration: none;
+}
+ 
+#BAS
+{
+	 border: solid 1px black;
+	height: 400px;
+	width: 1200px;
+	margin: 10px;
+	background-image: url(Screenshot_20230719-133117_Opera\ Mini.jpg);
+}
+#Contact
+{
+ 
+	margin-left: 270px;
+	height: 380px;
+	width: 250px;
+	margin-top: -410px;
+	
+}
+#Nous
+{
+	 
+	margin-left: 550px;
+	height: 380px;
+	width: 250px;
+	margin-top: -410px;	
+}
+#BRALIMA
+{
+	 
+	margin-left: 850px;
+	height: 380px;
+	width: 250px;
+	margin-top: -410px;
+}
+#BARRE
+{
+	height: 150px;
+	background-color: #6464f0;
+	width: 1200px;
+	font-family: Georgia ,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, 'Times New Roman', Times, serif;
+	font-size : 35PX;
+     
+}
+ 
+
+
+
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	background-color: #ffffff;
+
+/* for pull-down menu to work in IE6*/
+behavior:url("csshover2.htc");
+
+}
+
+/* pull-down mainmenu css */
+.mainmenu{
+	float: left;
+	width: 100%;
+	padding: 0;
+}
+.mainmenu ul {
+	float: left;
+	width: 100%;
+	list-style: none;
+	line-height: 5;
+	color:#0000FF;
+	background: #FFFFFF;
+	padding: 0;
+	border: solid #FFFFFF;
+	border-width: 1px 0;
+	margin: 0 0 1em 0;
+	font-size: 18px;
+}
+
+.mainmenu a, .mainmenu a:visited {
+	display: block;
+font-family:Arial, Helvetica, sans-serif;font-size:0.8em;font-weight:bold;font-style:normal;text-decoration:underline;
+	color: #0000FF;
+	text-decoration: none;
+	padding: 1em 1em;
+}
+.mainmenu ul ul a{
+	width:100%;
+	height:100%;
+}
+.mainmenu ul a{
+	width:1%;
+}
+
+
+.mainmenu li  {
+	float: left;
+	margin:0;
+	padding:0;
+}
+
+.mainmenu ul li {float:left; position:relative;  }
+.mainmenu ul li a {white-space:nowrap;}
+	
+.mainmenu li ul {
+	position: absolute;
+	left: -999em;
+	height: auto;
+	width:15em;	
+	
+	background: #000080;
+	font-weight: normal;
+	border-width: 1px;
+	margin: 0;
+}
+
+.mainmenu li li {
+	width:15em ;
+}
+
+.mainmenu li li a{
+	width:13em ;
+}
+
+.mainmenu li ul  {
+	margin: 0;
+}
+.mainmenu li ul ul {
+	margin: -2.8em 0 0 13.5em;
+}
+.ul_ch, 
+.mainmenu li:hover ul ul,
+.mainmenu li li:hover ul ul,
+.mainmenu li li li:hover ul ul,
+.mainmenu li li li li:hover ul ul,
+.mainmenu li li li li li:hover ul ul
+{
+	left: -999em;
+}
+.mainmenu li:hover ul,
+.mainmenu li li:hover ul,
+.mainmenu li li li:hover ul,
+.mainmenu li li li li:hover ul,
+.mainmenu li li li li li:hover ul
+{
+	left: auto;
+}
+.mainmenu li:hover>ul.ul_ch   
+{
+	left: auto;
+}
+
+.mainmenu li:hover{
+	background: #FF0000;
+}
+
+.mainmenu li:hover a,.mainmenu li:hover a:visited,.mainmenu li:hover a:hover,.mainmenu li a:hover{
+	color:#FFFF00;
+}
+.mainmenu li:hover li a, .mainmenu li li:hover li a, 
+.mainmenu li li li:hover li a, .mainmenu li li li li:hover li a,
+.mainmenu li:hover li a:visited, .mainmenu li li:hover li a:visited, 
+.mainmenu li li li:hover li a:visited, .mainmenu li li li li:hover li a:visited
+{
+	color:#FFFF00;
+}
+.mainmenu li li:hover, .mainmenu li li li:hover, 
+.mainmenu li li li li:hover , .mainmenu li li li li li:hover , .mainmenu li li li li li li:hover 
+{
+	background: #B90000;
+	z-index:9999;
+}
+.mainmenu li li:hover a,.mainmenu li li li:hover a, 
+.mainmenu li li li li:hover a, .mainmenu li li li li li:hover a
+{
+	color: #FFFF00; 
+}
+
+.mainmenu ul ul a, .mainmenu ul ul a:visited,
+.mainmenu li li a, .mainmenu li li a:visited
+{
+	color: #FFFF00;
+}
+.mainmenu ul ul a:hover,
+.mainmenu li:hover li:hover a,.mainmenu li:hover li:hover a:visited ,
+.mainmenu li:hover li:hover li:hover a,.mainmenu li:hover li:hover li:hover a:visited,
+.mainmenu li:hover li:hover li:hover li:hover a,.mainmenu li:hover li:hover li:hover li:hover a:visited ,
+.mainmenu li:hover li:hover li:hover li:hover li:hover a,.mainmenu li:hover li:hover li:hover li:hover li:hover a:visited,
+.mainmenu li:hover li:hover li:hover li:hover li:hover li:hover a,.mainmenu li:hover li:hover li:hover li:hover li:hover li:hover a:visited{
+	color: #FFFF00;
+}
+.mainmenu li:hover li:hover li a,.mainmenu li:hover li:hover li a:visited ,
+.mainmenu li:hover li:hover li:hover li a,.mainmenu li:hover li:hover li:hover li a:visited,
+.mainmenu li:hover li:hover li:hover li:hover li a,.mainmenu li:hover li:hover li:hover li:hover li a:visited,
+.mainmenu li:hover li:hover li:hover li:hover li:hover li a,.mainmenu li:hover li:hover li:hover li:hover li:hover li a:visited{
+	color: #FFFF00;
+}
+
+
+/* end of mainmenu css */
+
+
+
